@@ -45,8 +45,22 @@
 				},
 				{
 					"id": 1,
-					"name": "个人中心",
+					"name": "登记页面",
+					"pathName": "pages/registervisitor/registervisitor",
+					"query": "",
+					"scene": null
+				},
+				{
+					"id": 2,
+					"name": "拜访登记",
 					"pathName": "pages/personaldetails/personaldetails",
+					"query": "",
+					"scene": null
+				},
+				{
+					"id": -1,
+					"name": "pages/punchcardstatus/punchcardstatus",
+					"pathName": "pages/punchcardstatus/punchcardstatus",
 					"query": "",
 					"scene": null
 				}
